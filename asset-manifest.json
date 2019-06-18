@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-material/static/css/main.2cce8147.chunk.css",
+    "main.js": "/react-material/static/js/main.287ff64a.chunk.js",
+    "main.js.map": "/react-material/static/js/main.287ff64a.chunk.js.map",
+    "runtime~main.js": "/react-material/static/js/runtime~main.138fd361.js",
+    "runtime~main.js.map": "/react-material/static/js/runtime~main.138fd361.js.map",
+    "static/js/2.b41502e9.chunk.js": "/react-material/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/react-material/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/react-material/index.html",
+    "precache-manifest.1ad49a5c52b728038b58f13fb6719644.js": "/react-material/precache-manifest.1ad49a5c52b728038b58f13fb6719644.js",
+    "service-worker.js": "/react-material/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/react-material/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/react-material/static/media/logo.5d5d9eef.svg"
+  }
+}
